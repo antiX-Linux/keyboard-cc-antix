@@ -1,0 +1,9 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=keyboard
+Exec=antixcckeyboard.sh
+Icon=keyboard
+Terminal=false
+Type=Application
+Categories=Settings;
+NoDisplay=True

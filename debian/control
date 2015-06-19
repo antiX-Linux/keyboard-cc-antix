@@ -1,0 +1,12 @@
+Source: keyboard-cc-antix
+Section: system
+Priority: optional
+Maintainer: anticapitalista <antiX@operamail.com>
+Build-Depends: debhelper (>= 9.20120115)
+Standards-Version: 3.9.4
+Homepage: http://antix.mepis.org
+
+Package: keyboard-cc-antix
+Architecture: all
+Depends: gtkdialog, x11-xkb-utils
+Description: Set up keyboard language when running antiX live.
