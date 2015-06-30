@@ -83,6 +83,10 @@ export keyconfig=$(cat <<End_of_Text
       <action>setxkbmap es</action>
     </radiobutton>
     <radiobutton>
+      <label>"`gettext $"Swedish"`"</label>
+      <action>setxkbmap se</action>
+    </radiobutton>
+    <radiobutton>
       <label>"`gettext $"Turkish"`"</label>
       <action>setxkbmap tr</action>
     </radiobutton>
